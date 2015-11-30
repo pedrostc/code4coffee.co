@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Author Info
+author_name:        "Code4Code"
+author_email:       coffee4code@gmail.com
+author_gravatar:    0284282e3501be92371b300a6f363161 # Gravatar md5 hash
+twitter_username:   code4coffee_
+
+# Site settings
+title: Code4Coffee
+email: coffee4code@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Um blog sobre programação e vacilo.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.code4coffee.com" # the base hostname & protocol for your site
+twitter_username: code4coffee_
+github_username:  pedrostc
+
+# Build settings
+markdown: kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+compress_html:
+    clippings:      all
+    ingore:
+        envs:       [ "test" ]
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
