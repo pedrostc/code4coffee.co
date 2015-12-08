@@ -7,6 +7,6 @@ A proposta principal é disponibilizar artigos e tutoriais sobre programação e
 
 ## Equipe do Code4Coffee
 
-- **Pedro**: Engenheiro Eletrônico de formação, jogou seu diploma no lixo logo após se formar e tomou a péssima decisão de se tornar um desenvolvedor. Gosta de facilidade e conforto das IDEs como toda criança mimada e estuda coisas novas por hobby. Como podem ver, é um ser sem salvação.
+- **PedroStC**: Engenheiro Eletrônico de formação, jogou seu diploma no lixo logo após se formar e tomou a péssima decisão de se tornar um desenvolvedor. Gosta de facilidade e conforto das IDEs como toda criança mimada e estuda coisas novas por hobby. Como podem ver, é um ser sem salvação.
 
 - **Eldius**: Programador (sempre quis ser artesão de software pois tem mais impacto, mas ninguém nunca deixou), viciado em scripts, gambiarras e afins e tem problemas sérios pra lembrar siglas e nomes de patterns (exceto o Schrodinger pattern pra programação multi thread, esse é inesquecível).
