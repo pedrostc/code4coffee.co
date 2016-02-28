@@ -3,6 +3,7 @@ layout: post
 title:  "Testando o Jekyll"
 date:   2015-11-27 11:19:15 -0200
 categories: jekyll update
+comments: true
 ---
 Este é o primeiro post que estou fazendo com o Jekyll, vamos ver se esse treco funciona direito.
 
