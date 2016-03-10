@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <noscript>
@@ -28,3 +29,26 @@ layout: default
 <div class="back">
 	<a href="{{site.baseurl}}/">Back</a>
 </div>
+
+{% if page.comments %}
+
+	<div id="disqus_thread"></div>
+	<script>
+	
+	var disqus_config = function () {
+	this.page.url = PAGE_URL;
+	this.page.identifier = PAGE_IDENTIFIER;
+	};
+	
+	(function() { 
+	var d = document, s = d.createElement('script');
+
+	s.src = '//code4coffee.disqus.com/embed.js';
+
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{% endif %}
