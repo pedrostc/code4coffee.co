@@ -7,6 +7,21 @@ A proposta principal é disponibilizar artigos e tutoriais sobre programação e
 
 ## Equipe do Code4Coffee
 
-<img src="http://www.gravatar.com/avatar/fd51c9f4cd8c91b666118bfe4f233012.png?s=80" class="gravatar" alt="PedroStC">: Engenheiro Eletrônico de formação, jogou seu diploma no lixo logo após se formar e tomou a péssima decisão de se tornar um desenvolvedor. Gosta de facilidade e conforto das IDEs como toda criança mimada e estuda coisas novas por hobby. Como podem ver, é um ser sem salvação.
+<span class="logo">
+    <a href="https://twitter.com/posternack">
+        <img src="http://www.gravatar.com/avatar/fd51c9f4cd8c91b666118bfe4f233012.png?s=80" class="gravatar" alt="PedroStC">
+    </a>
+</span>
+<span class="logo">
+    <a href="https://twitter.com/eldius">
+        <img src="http://www.gravatar.com/avatar/2085c3f2835a5e1896b9a87373f42bca.png?s=80" class="gravatar" alt="Eldius">
+    </a>
+</span>
 
-<img src="http://www.gravatar.com/avatar/2085c3f2835a5e1896b9a87373f42bca.png?s=80" class="gravatar" alt="Eldius">: Programador (sempre quis ser artesão de software pois tem mais impacto, mas ninguém nunca deixou), viciado em scripts, gambiarras e afins e tem problemas sérios pra lembrar siglas e nomes de patterns (exceto o Schrodinger pattern pra programação multi thread, esse é inesquecível).
+### PedroStC
+
+Engenheiro Eletrônico de formação, jogou seu diploma no lixo logo após se formar e tomou a péssima decisão de se tornar um desenvolvedor. Gosta de facilidade e conforto das IDEs como toda criança mimada e estuda coisas novas por hobby. Como podem ver, é um ser sem salvação.
+
+### Eldius
+
+Programador (sempre quis ser artesão de software pois tem mais impacto, mas ninguém nunca deixou), viciado em scripts, gambiarras e afins e tem problemas sérios pra lembrar siglas e nomes de patterns (exceto o Schrodinger pattern pra programação multi thread, esse é inesquecível).
