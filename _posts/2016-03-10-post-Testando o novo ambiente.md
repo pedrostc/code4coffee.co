@@ -11,6 +11,7 @@ A ação deve ser disparada através de um WebHook do GitHub que deve ser dispar
 Outro ideia é manter no repositório apenas os artigos, para tal precisa ser dicidido como e aonde ficarão as configurações e os temas do blog.
 
 Instalação do ambiente:
+
 - JRE (o s3_website precisa);
 - Ruby (renv facilita muito a vida);
 - gem jekyll;
@@ -18,6 +19,7 @@ Instalação do ambiente:
 - gem s3_website.
 
 Processo:
+
 - Baixar o repositório do blog;
 - escrever os artigos;
 - jekyll build;
