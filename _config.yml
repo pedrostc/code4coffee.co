@@ -30,8 +30,8 @@ sass:
 
 # Other Params
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
-  - jekyll-sitemap
+#gems:
+#  - jekyll-sitemap
 
 compress_html:
     clippings:      all
