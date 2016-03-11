@@ -7,7 +7,9 @@ comments: true
 ---
 E está tudo funcionando com o ***static-publisher***.
 Como não poderia deixar de ser eu tenho algumas coisas que quero implementar, creio que vou fazer um fork dele e brincar com essas funcionalidades.
+
 Pretendo utilizar ele como base por quê ele já está preparado para o heroku e pq está funcionando e pq estou com preguiça de testar outro. XD
+
 Algumas das funcionalidades que pretendo colocar são as seguintes:
 
  - Permitir instalar gems no deploy da aplicação no heroku (não sei se é exatamente possível, mesmo pq não saco mt ainda desse ambiente);
@@ -16,4 +18,5 @@ Algumas das funcionalidades que pretendo colocar são as seguintes:
  - Adicionar o log na tela de administração, não quero ter q acessar o heroku pra verificar logs.
 
 E é isso ai, vamos ver no que dá.
+
 E sim, vou fazer o step-by-step de como foi fazer essa trosoba funcionar.
