@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eis que você descobre que o quê você queria fazer já existe."
+title:  "Eis que você descobre que o que você queria fazer já existe."
 date:   2016-03-11 09:48:15 -0300
 categories: jekyll update dev
 comments: true
