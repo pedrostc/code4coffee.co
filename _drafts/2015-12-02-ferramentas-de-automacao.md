@@ -9,7 +9,8 @@ published: true
 Atualmente trabalho com desenvolvimento no ambiente Java (digo ambiente porque de vez em quando preciso escrever um script em Groovy ou decido criar uma meta ferramenta - código para me livrar de tarefas repetitivas como, por exemplo, abrir a tela do sistema que estou mexendo - em Scala, e por aí vai), e como todo desenvolvedor Java (no mínimo mediano), conhece o Maven... E ele acaba te deixando "mau acostumado" devido a suas facilidades, bastando um 'mvn clean package' pra que ele limpe o projeto, compile, execute testes de unidade e integração e empacote (dependendo da sua configuração, ele até faz o deploy pra você), sem contar que você não precisa ficar enchendo o seu controle de versões com suas dependências, apenas as define na configuração do arquivo (pom.xml)... Em parte por causa disso eu acabei ficando um bom tempo "preso" nesse ambiente, sem ânimo estudar coisas novas... Até que descobri que o Javascript/NodeJS também possui esse tipo de ferramenta, mesmo que de forma mais granular (cada ferramenta tem uma finalidade específica).
 
 
-
+  * Teste:
+    * Sub Test
 
 
 {% highlight java %}
