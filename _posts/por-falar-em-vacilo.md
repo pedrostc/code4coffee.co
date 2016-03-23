@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Por falar em vacilo..."
-date:   2016-03-21 10:30:15 -0200
+date:   2016-03-21 12:45:37 -0200
 categories: jekyll update vacilo eldius
 published: true
 ---
