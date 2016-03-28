@@ -6,6 +6,7 @@ categories: GIT, NatGeo
 comments: true
 author: Pedro Osternack Corrêa
 ---
+
 # GIT - Uma abordagem NatGeo
 
 ## Objetivo
@@ -40,10 +41,13 @@ Cada pessoa que está trabalhando em um repositório no *git* possui uma cópia 
 
 Como comparação, no caso do *svn* o repositório fica única e exclusivamente em um servidor remoto (ok, caso a sua maquina seja o servidor ele é local, mas você entendeu a ideia.) e todas as operações são feitas diretamente neste servidor.
 
-Você deve ter notado o "quase" em destaque. Ele está destacado por que existem operações que são feitas remotamente.
+Você deve ter notado o "quase" em destaque. Ele está assim pois existem operações que são feitas remotamente. Em projetos compartillhados, ou qualquer projeto, pode ser utilizado um repositório remoto afim de possibilitar o acesso ao mesmo a todos os desenvolvedores no projeto em questão. Nestes casos os desenvolvedores irão se "comunicar" através deste repositório remoto. Isso não significa que os usuários vão usar somente o repositório remoto, cada um continua tendo o seu repositório local em suas maquinas e passa a ter um local aonde deixar a cópia de seus arquivos para que os demais tenham acesso. Este processo será descrito mais adiante.
 
-## 3. Como se relaciona?
-TODO: Descrever integração entre repositório local e remoto e de outros desenvolvedores.
+## 3. Como é a sua organização social?
+
+
+
+TODO: Descrever integração entre repositório local e remoto e de outros desenvolvedores, GitTree, branchs e afins.
 
 ## 4. Como se alimenta?
 TODO: Descrever os principais processos de controle de versão, árvore de versões, staging area e processo de "commit".
