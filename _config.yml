@@ -9,7 +9,7 @@
 author_name:        "Code4Code"
 author_email:       coffee4code@gmail.com
 author_gravatar:    0284282e3501be92371b300a6f363161 # Gravatar md5 hash
-twitter_username:   code4coffee_
+twitter_username:   posternack
 
 # Site settings
 title: Code4Coffee
@@ -54,4 +54,4 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-      comments:     "true"
+      comments:     true
