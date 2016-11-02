@@ -3,7 +3,7 @@ layout: post
 title:  "Criando logins para usuários órfãos no MS SQL Server"
 date:   2016-11-02 15:50:00 -0400
 categories: sql sqlserver mssql orphaned-users
-published: false
+published: true
 ---
 
 **[tl;dr; cadê o código?](https://gist.github.com/pedrostc/6a429ae77485fbe3768eb36a09d8d1e4)**
