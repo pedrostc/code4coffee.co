@@ -19,13 +19,19 @@ Neste caso em específico eu precisava recuperar o acesso de 30+ usuários, faze
 <script src="https://gist.github.com/pedrostc/6a429ae77485fbe3768eb36a09d8d1e4.js"></script>
 
 Esse código faz basicamente 3 coisas:
+
 1. Salva a lista de todos os usuários com problemas no banco atual e salva a lista em uma variável do tipo tabela;
+
 2. Percorre a tabela e cria um novo login para cada um dos usuários listados nela e atualiza o mapeamento entre os dois.
+
 3. Imprime no console um log do processamento para cada usuário.
 
 Algumas observações:
+
 - Como eu queria criar um novo login para os usuários eu passo o parâmetro *LoginName* da proc como *null*, sendo assim ela vai criar um novo login com o mesmo nome do usuário sendo processado;
+
 - Caso eu passasse um nome no parâmetro *LoginName* a proc iria tentar apenas mapear o usuário para o login com o nome que eu informei e, já que neste caso os logins não existem, iria resultar em um erro;
+
 - Eu deixei uma senha fixa para todos os novos logins para ser simples. Eu tenho noção de que isso é um problema de segurança e abre algumas brechas para usuários mal-intencionados fazerem besteira. Uma alternativa seria gerar as novas senhas por alguma função específica e adiciona-lo a saída de log no final do processamento do usuário.
 
 Bem, por enquanto é só. Espero que alguém ache isso útil.
